@@ -1,14 +1,11 @@
 package clock;
 
-import java.util.Observable;
-import java.util.Observer;
-
 public class ClockViewEng implements Observer {
 
-	@Override
-	public void update(Observable o, Object arg) {
-		// TODO Auto-generated method stub
-
+	public void update(Observable observable) {
+				
 	}
+
+	
 
 }
